@@ -138,7 +138,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@qbit-glitch](https://twitter.com/qbit-glitch)
+Umesh Kumar Singh - [@qbit-glitch](https://twitter.com/qbit-glitch)
 
 Project Link: [https://github.com/qbit-glitch/rusty-store](https://github.com/qbit-glitch/rusty-store)
 
